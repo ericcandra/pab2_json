@@ -1,0 +1,23 @@
+[
+    {
+        "nama": "Eric Candra",
+        "umur": 23,
+        "alamat": {
+            "jalan": "JL. Enggano",
+            "kota": "Palembang",
+            "Provinsi": "Sumatera Selatan"
+        },
+        "hobi": ["membaca","bermotor"]
+    },
+    {
+        "nama": "Nabila",
+        "umur": 20,
+        "alamat": {
+            "jalan": "JL. Kebun jeruk",
+            "kota": "Palembang",
+            "Provinsi": "Sumatera Selatan"
+        },
+        "hobi": ["membaca","game"]
+    }
+
+]
